@@ -1,5 +1,7 @@
 # UK-Balancing-Market-Price-Forecasting-The-Influence-of-Generator-Availability
 
+OneDrive link with data files: https://1drv.ms/f/c/53c6d9c0a7020896/IgCCTNxptou7TbI3URR85qz-ASGb3hVjS511XCcjF00mT18?e=TScYl8
+
 Remit Data Analysis File:
 - Reads three CSV files: 1. REMIT_2021_2024.csv (the raw remit data) 2. Dates_SP_2021_2024,csv (half hour settlement periods) 3. BMUFuelType.csv (BMU fuel type definitions to match the generators to)
 - The REMIT_2021_2024.csv is too large a file to share on Github, have shared on emaiil
